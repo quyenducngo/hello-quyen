@@ -1,2 +1,3 @@
 ### QUYEN NGO
-📍 Vancouver
+📍 Vancouver, British Columbia
+👨🏻‍💻 Learning JS
