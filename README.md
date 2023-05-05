@@ -2,4 +2,4 @@
 
 📍 Vancouver, British Columbia
 
-👨🏻‍💻 Learning JS | 🏃🏻‍♂️ Focus on Health | 🍄 Deep Learning |
+👨🏻‍💻 Learning JS | 🏃🏻‍♂️ Focusd on Health | 🍄 Deep Learning |
